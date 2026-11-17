@@ -129,8 +129,8 @@ CORS_ALLOW_HEADERS = [
 CSRF_TRUSTED_ORIGINS = [
     'https://sweatfitwellness.com',
     'https://www.sweatfitwellness.com',
+    'https://api.sweatfitwellness.com',
     'https://web.sweatfitwellness.com',
-    'https://sweatfit.vibesandbox.live',
     'http://localhost:3000',
     'http://localhost:5173',
     'http://127.0.0.1:3000',
